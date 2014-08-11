@@ -1,0 +1,24 @@
+C:\Vicky\RSSViewer\RSS Viewer\RSSViewer\bin\Debug\RSSViewer.exe.config
+C:\Vicky\RSSViewer\RSS Viewer\RSSViewer\bin\Debug\RSSViewer.exe
+C:\Vicky\RSSViewer\RSS Viewer\RSSViewer\bin\Debug\RSSViewer.pdb
+C:\Vicky\RSSViewer\RSS Viewer\RSSViewer\bin\Debug\RSSViewer.xml
+C:\Vicky\RSSViewer\RSS Viewer\RSSViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Vicky\RSSViewer\RSS Viewer\RSSViewer\obj\Debug\RSSViewer.Resources.resources
+C:\Vicky\RSSViewer\RSS Viewer\RSSViewer\obj\Debug\RSSViewer.RSSViewer.resources
+C:\Vicky\RSSViewer\RSS Viewer\RSSViewer\obj\Debug\GenerateResource.read.1.tlog
+C:\Vicky\RSSViewer\RSS Viewer\RSSViewer\obj\Debug\GenerateResource.write.1.tlog
+C:\Vicky\RSSViewer\RSS Viewer\RSSViewer\obj\Debug\RSSViewer.exe
+C:\Vicky\RSSViewer\RSS Viewer\RSSViewer\obj\Debug\RSSViewer.xml
+C:\Vicky\RSSViewer\RSS Viewer\RSSViewer\obj\Debug\RSSViewer.pdb
+C:\Vicky\Visual Studio\RSS Viewer\RSSViewer\bin\Debug\RSSViewer.exe.config
+C:\Vicky\Visual Studio\RSS Viewer\RSSViewer\obj\Debug\RSSViewer.exe
+C:\Vicky\Visual Studio\RSS Viewer\RSSViewer\obj\Debug\RSSViewer.xml
+C:\Vicky\Visual Studio\RSS Viewer\RSSViewer\obj\Debug\RSSViewer.pdb
+C:\Vicky\Visual Studio\RSS Viewer\RSSViewer\bin\Debug\RSSViewer.exe
+C:\Vicky\Visual Studio\RSS Viewer\RSSViewer\bin\Debug\RSSViewer.pdb
+C:\Vicky\Visual Studio\RSS Viewer\RSSViewer\bin\Debug\RSSViewer.xml
+C:\Vicky\Visual Studio\RSS Viewer\RSSViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Vicky\Visual Studio\RSS Viewer\RSSViewer\obj\Debug\RSSViewer.Resources.resources
+C:\Vicky\Visual Studio\RSS Viewer\RSSViewer\obj\Debug\RSSViewer.RSSViewer.resources
+C:\Vicky\Visual Studio\RSS Viewer\RSSViewer\obj\Debug\GenerateResource.read.1.tlog
+C:\Vicky\Visual Studio\RSS Viewer\RSSViewer\obj\Debug\GenerateResource.write.1.tlog

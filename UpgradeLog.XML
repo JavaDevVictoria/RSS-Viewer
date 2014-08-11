@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RSSViewer">
+</Property><Property Name="Solution File" Value="C:\Vicky\RSSViewer\RSS Viewer\RSSViewer.sln">
+</Property><Property Name="User Options File" Value="C:\Vicky\RSSViewer\RSS Viewer\RSSViewer.suo">
+</Property><Property Name="Date" Value="26/07/2010">
+</Property><Property Name="Time" Value="12:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RSSViewer.sln" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RSSViewer.suo" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer.suo">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\RSSViewer.vbproj" Description="Project file successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\RSSViewer.vbproj">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\RSSViewer.vbproj.user" Description="Project user file successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\RSSViewer.vbproj.user">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\My Project\ApplicationEvents.vb" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\My Project\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\RSSChannel.vb" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\RSSChannel.vb">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\RSSItem.vb" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\RSSItem.vb">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\RSSViewer.Designer.vb" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\RSSViewer.Designer.vb">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\RSSViewer.vb" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\RSSViewer.vb">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\app.config" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\app.config">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\My Project\Settings.settings" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\My Project\Application.myapp" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\My Project\Resources.resx" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\RSSViewer.resx" Description="File successfully backed up as C:\Vicky\RSSViewer\RSS Viewer\Backup\RSSViewer\RSSViewer.resx">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\RSSViewer.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RSSViewer" Source="RSSViewer\RSSViewer.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RSSViewer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RSSViewer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RSSViewer" Source="RSSViewer\RSSViewer.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
